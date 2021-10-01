@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kuanwen/static/css/main.c6b0378a.chunk.css",
-    "main.js": "/kuanwen/static/js/main.859ed234.chunk.js",
-    "main.js.map": "/kuanwen/static/js/main.859ed234.chunk.js.map",
+    "main.js": "/kuanwen/static/js/main.419b3a2c.chunk.js",
+    "main.js.map": "/kuanwen/static/js/main.419b3a2c.chunk.js.map",
     "runtime-main.js": "/kuanwen/static/js/runtime-main.1638db04.js",
     "runtime-main.js.map": "/kuanwen/static/js/runtime-main.1638db04.js.map",
     "static/js/2.5a8c0992.chunk.js": "/kuanwen/static/js/2.5a8c0992.chunk.js",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.1638db04.js",
     "static/js/2.5a8c0992.chunk.js",
     "static/css/main.c6b0378a.chunk.css",
-    "static/js/main.859ed234.chunk.js"
+    "static/js/main.419b3a2c.chunk.js"
   ]
 }
