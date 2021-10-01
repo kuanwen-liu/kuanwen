@@ -1,0 +1,34 @@
+.objective-container {
+  height: 85vh;
+  width: 50%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.objective-container h1 {
+  margin: 0;
+}
+
+.objective-container h3 {
+  font-size: 1.5rem;
+}
+
+.objective-container .objective {
+  position: absolute;
+  top: 30%;
+  -moz-transform: translateY(-30%);
+  transform: translateY(-30%);
+}
+
+@media (max-width: 1000px) {
+  .objective-container {
+    height: auto;
+  }
+
+  .objective-container .objective {
+    position: relative;
+    margin-bottom: 30rem;
+    -moz-transform: translateY(30%);
+    transform: translateY(30%);
+  }
+}

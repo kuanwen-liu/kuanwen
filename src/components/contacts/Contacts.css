@@ -1,0 +1,35 @@
+.icons {
+  z-index: 12;
+}
+.icons a {
+  display: inline-block;
+  height: 3rem;
+  width: 3rem;
+  margin-right: 1rem;
+}
+
+.icons a:hover {
+  animation: icon-focus 0.5s ease-out infinite;
+}
+
+.icons a img {
+  max-height: 100%;
+}
+
+.icons-header {
+  position: absolute;
+  top: 1.5rem;
+  left: 1.5rem;
+}
+
+@keyframes icon-focus {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
