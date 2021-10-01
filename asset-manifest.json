@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/kuanwen/static/css/main.c6b0378a.chunk.css",
+    "main.js": "/kuanwen/static/js/main.859ed234.chunk.js",
+    "main.js.map": "/kuanwen/static/js/main.859ed234.chunk.js.map",
+    "runtime-main.js": "/kuanwen/static/js/runtime-main.1638db04.js",
+    "runtime-main.js.map": "/kuanwen/static/js/runtime-main.1638db04.js.map",
+    "static/js/2.5a8c0992.chunk.js": "/kuanwen/static/js/2.5a8c0992.chunk.js",
+    "static/js/2.5a8c0992.chunk.js.map": "/kuanwen/static/js/2.5a8c0992.chunk.js.map",
+    "index.html": "/kuanwen/index.html",
+    "static/css/main.c6b0378a.chunk.css.map": "/kuanwen/static/css/main.c6b0378a.chunk.css.map",
+    "static/js/2.5a8c0992.chunk.js.LICENSE.txt": "/kuanwen/static/js/2.5a8c0992.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/kuanwen/static/media/background.8ad01bfd.jpg",
+    "static/media/crwn-e-commerce.6641d3c5.jpg": "/kuanwen/static/media/crwn-e-commerce.6641d3c5.jpg",
+    "static/media/css-3.8fe37b34.svg": "/kuanwen/static/media/css-3.8fe37b34.svg",
+    "static/media/github-icon.261f23d1.svg": "/kuanwen/static/media/github-icon.261f23d1.svg",
+    "static/media/html-5.f064b374.svg": "/kuanwen/static/media/html-5.f064b374.svg",
+    "static/media/js.64d9e0e7.svg": "/kuanwen/static/media/js.64d9e0e7.svg",
+    "static/media/linkedin-icon.41b8f45f.svg": "/kuanwen/static/media/linkedin-icon.41b8f45f.svg",
+    "static/media/mail-icon.4ff91b48.svg": "/kuanwen/static/media/mail-icon.4ff91b48.svg",
+    "static/media/natours-node.8bc95af8.jpg": "/kuanwen/static/media/natours-node.8bc95af8.jpg",
+    "static/media/natours.70d19715.jpg": "/kuanwen/static/media/natours.70d19715.jpg",
+    "static/media/react.ad4b233e.svg": "/kuanwen/static/media/react.ad4b233e.svg",
+    "static/media/redux.85bfc20a.svg": "/kuanwen/static/media/redux.85bfc20a.svg",
+    "static/media/Skills.css": "/kuanwen/static/media/skills-background.8405de08.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1638db04.js",
+    "static/js/2.5a8c0992.chunk.js",
+    "static/css/main.c6b0378a.chunk.css",
+    "static/js/main.859ed234.chunk.js"
+  ]
+}
