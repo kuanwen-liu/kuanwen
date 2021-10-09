@@ -18,6 +18,16 @@ const Objective = () => {
           challenges utilizing interpersonal skills, excellent time management
           and problem-solving skills.
         </h3> */}
+
+        {/* <h3>
+          Front-End professional seeking employment with a company where I can
+          develop my programming skills in an environment of growth and
+          excellence to meet personal and organizational goals. I am creative
+          and enthusiastic about technology with the ability of motivation to
+          achieve accomplishment and improvement actions to improve the quality
+          of services and products. Work well in a team environment and
+          individual tasks. Detail-oriented, hardworking, and team spirit.
+        </h3> */}
       </div>
     </div>
   );

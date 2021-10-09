@@ -287,3 +287,12 @@ header::before {
     transform: none;
   }
 }
+
+@media (max-width: 650px) {
+  .header-title {
+    font-size: 60px;
+  }
+  .header-subtitle {
+    font-size: 40px;
+  }
+}
