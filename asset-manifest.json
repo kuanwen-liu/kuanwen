@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kuanwen/static/css/main.676a5392.chunk.css",
+    "main.css": "/kuanwen/static/css/main.aad24f7e.chunk.css",
     "main.js": "/kuanwen/static/js/main.0c2a3a7a.chunk.js",
     "main.js.map": "/kuanwen/static/js/main.0c2a3a7a.chunk.js.map",
     "runtime-main.js": "/kuanwen/static/js/runtime-main.1638db04.js",
@@ -8,7 +8,7 @@
     "static/js/2.5a8c0992.chunk.js": "/kuanwen/static/js/2.5a8c0992.chunk.js",
     "static/js/2.5a8c0992.chunk.js.map": "/kuanwen/static/js/2.5a8c0992.chunk.js.map",
     "index.html": "/kuanwen/index.html",
-    "static/css/main.676a5392.chunk.css.map": "/kuanwen/static/css/main.676a5392.chunk.css.map",
+    "static/css/main.aad24f7e.chunk.css.map": "/kuanwen/static/css/main.aad24f7e.chunk.css.map",
     "static/js/2.5a8c0992.chunk.js.LICENSE.txt": "/kuanwen/static/js/2.5a8c0992.chunk.js.LICENSE.txt",
     "static/media/Header.css": "/kuanwen/static/media/background.8ad01bfd.jpg",
     "static/media/crwn-e-commerce.6641d3c5.jpg": "/kuanwen/static/media/crwn-e-commerce.6641d3c5.jpg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.1638db04.js",
     "static/js/2.5a8c0992.chunk.js",
-    "static/css/main.676a5392.chunk.css",
+    "static/css/main.aad24f7e.chunk.css",
     "static/js/main.0c2a3a7a.chunk.js"
   ]
 }
