@@ -1,17 +1,17 @@
-import React from "react";
+import React from 'react';
 
-import "./Objective.css";
+import './Objective.css';
 
 const Objective = () => {
   return (
-    <div className="objective-container">
-      <div className="objective">
+    <div className='objective-container'>
+      <div className='objective'>
         <h1>OBJECTIVE</h1>
         <h3>
           Hardworking and passionate jobseeker with strong organizational skills
-          eager to secure entry-level Front-End Developer, React Developer or
-          Full Stack Developer position in a collaborative environment. Ready to
-          help team achieve company goals.
+          eager to secure Front-End Developer, React Developer or Full Stack
+          Developer position in a collaborative environment. Ready to help team
+          achieve company goals.
         </h3>
         {/* <h3>
           To seek and maintain a full-time position that offers professional
